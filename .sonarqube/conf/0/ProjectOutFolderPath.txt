@@ -1,0 +1,1 @@
+E:\.NET\REST API\Machine Test\MachineTest 6.1\.sonarqube\out\0

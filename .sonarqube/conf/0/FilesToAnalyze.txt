@@ -1,0 +1,24 @@
+﻿E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Controllers\CustomerController.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Controllers\LoginController.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Controllers\PurchaseController.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Controllers\WeatherForecastController.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Models\CustomerRegistration.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Models\Login.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Models\PurchaseOrder.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Models\SalesDBContext.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Models\Vendor.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Program.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\CustomerRepository.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\ICustomerRepository.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\IPurchaseRepository.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\IUserLogin.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\PurchaseRepository.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Repository\UserLogin.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Startup.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\ViewModel\CustomerOrder.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\WeatherForecast.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\obj\Debug\netcoreapp3.1\MachineTest 6.1.AssemblyInfo.cs
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\appsettings.Development.json
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\appsettings.json
+E:\.NET\REST API\Machine Test\MachineTest 6.1\MachineTest 6.1\Properties\launchSettings.json
